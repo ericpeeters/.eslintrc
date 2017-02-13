@@ -42,9 +42,6 @@
     // enforce a maximum cyclomatic complexity allowed in a program
     "complexity": [1, 6],
 
-    // require return statements to either always or never specify values
-    "consistent-return"          : [2],
-
     // enforce consistent brace style for all control statements
     "curly": [2],
 
